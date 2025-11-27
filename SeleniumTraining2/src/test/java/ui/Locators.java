@@ -57,7 +57,7 @@ public class Locators {
 //		driver.findElement(with(By.tagName("button")).toLeftOf(book)).click();
 //      checking for git
 //      adding through terminal
-		
+		//branching for git
 		
 		driver.get("https://www.saucedemo.com/v1/");
 		driver.manage().window().maximize();
